@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603474561976",
+    "project_id": "scholar-chat-app-cdf45",
+    "storage_bucket": "scholar-chat-app-cdf45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603474561976:android:0d1bf9e995399583da9d4d",
+        "android_client_info": {
+          "package_name": "com.example.scholar_chat_setup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603474561976-g1sedr376cann02kna8o8msad9bbk4lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABMpABt3DfG5oFm3407t_s1mAZ-HF5doQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603474561976-g1sedr376cann02kna8o8msad9bbk4lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
